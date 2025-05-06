@@ -1,3 +1,6 @@
+ /about/
+   - /about.html
+
 # About Me
 
 I am a 4th year Ph.D. student in mathematics at Stanford, studying with [Richard Taylor](https://virtualmath1.stanford.edu/~rltaylor/). I previously did my undergrad at Harvard, and Part III at Cambridge.
@@ -10,6 +13,9 @@ Eigenvarieties over CM fields and trianguline representations. [arXiv.2054.18319
 ### Undergrad work
 
 ## Invited talks
+
 Number theory seminar, University of Chicago, May 2025
+
 Number theory seminar, Stanford University, April 2025
+
 Mittagsseminar Universit\"{a}t M\"{u}nster, April 2025
