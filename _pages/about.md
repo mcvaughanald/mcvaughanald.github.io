@@ -1,14 +1,11 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-
-# About Me
 
 I am a 4th year Ph.D. student in mathematics at Stanford, studying with [Richard Taylor](https://virtualmath1.stanford.edu/~rltaylor/). I previously did my undergrad at Harvard, and Part III at Cambridge.
 
