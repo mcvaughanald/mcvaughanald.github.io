@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**On me**
+******Site-wide configuration******
 
 I am a 4th year Ph.D. student in mathematics at Stanford, studying with Richard Taylor. I previously did my undergrad at Harvard, and Part III at Cambridge.
 
