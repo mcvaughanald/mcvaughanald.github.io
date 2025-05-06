@@ -22,4 +22,4 @@ Number theory seminar, University of Chicago, May 2025
 
 Number theory seminar, Stanford University, April 2025
 
-Mittagsseminar Universit\"{a}t M\"{u}nster, April 2025
+Mittagsseminar Universität Münster, April 2025
