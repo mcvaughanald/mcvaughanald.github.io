@@ -16,7 +16,7 @@ I can be reached at firstinitial k lastinitial at stanford dot edu.
 ## Research
 Eigenvarieties over CM fields and trianguline representations. [arXiv.2054.18319](https://arxiv.org/abs/2504.18319)
 
-More undergrad work can be found on [arXiv](https://arxiv.org/search/?query=McDonald%2C+Vaughan&searchtype=author&abstracts=show&order=-announced_date_first&size=50).
+Undergrad papers can be found on [arXiv](https://arxiv.org/search/?query=McDonald%2C+Vaughan&searchtype=author&abstracts=show&order=-announced_date_first&size=50).
 
 
 
