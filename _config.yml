@@ -26,7 +26,7 @@ author:
   name             : "Vaughan McDonald"
   pronouns         : # example: "she/her"  
   bio              : "Mathematics, Stanford"
-  location         : "Earth"
+  location         : #"Earth"
   employer         : "Stanford University"
   uri              : # URL
   email            : #"first_initial k last_initial at stanford d o t e d u" 
@@ -132,7 +132,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               #: &twitter
 facebook:
   username               :
   app_id                 :
@@ -303,18 +303,18 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-sitemap
+ # - jekyll-sitemap
   - jekyll-redirect-from
-  - jemoji
+#  - jemoji
 
 # Mimic GitHub Pages with --safe
 whitelist:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-sitemap
+ # - jekyll-sitemap
   - jekyll-redirect-from
-  - jemoji
+ # - jemoji
 
 
 # Archives
