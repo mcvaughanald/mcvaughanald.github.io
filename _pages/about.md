@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 4th year Ph.D. student in mathematics at Stanford, studying with [Richard Taylor](https://virtualmath1.stanford.edu/~rltaylor/). I previously did my undergrad at Harvard, and Part III at Cambridge.
+I am a 5th year Ph.D. student in mathematics at Stanford, studying with [Richard Taylor](https://virtualmath1.stanford.edu/~rltaylor/). I previously did my undergrad at Harvard, and Part III at Cambridge.
 
 This fall, I am on the job market.
 
