@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Vaughan's homepage"
+title                    : "Vaughan McDonald's homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
