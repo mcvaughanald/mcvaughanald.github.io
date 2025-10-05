@@ -24,6 +24,8 @@ Undergrad papers can be found on [arXiv](https://arxiv.org/search/?query=McDonal
 
 ## Invited talks
 
+Arithmetic geometry and number theory seminar, UC Berkeley, September 2025
+
 Number theory seminar, University of Chicago, May 2025
 
 Number theory seminar, Stanford University, April 2025
