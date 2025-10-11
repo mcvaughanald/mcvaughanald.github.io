@@ -9,8 +9,6 @@ redirect_from:
 
 I am a 5th year Ph.D. student in mathematics at Stanford, studying with [Richard Taylor](https://virtualmath1.stanford.edu/~rltaylor/). I previously did my undergrad at Harvard, and Part III at Cambridge.
 
-This fall, I am on the job market.
-
 My research interests are in algebraic number theory and arithmetic geometry. I'm broadly interested in the Langlands program, although I've been recently focused on p-adic automorphic forms, eigenvarieties, and Galois representations.
 
 I can be reached at firstinitial k lastinitial at stanford dot edu.
