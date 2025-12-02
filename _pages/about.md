@@ -14,7 +14,7 @@ My research interests are in algebraic number theory and arithmetic geometry. I'
 I can be reached at firstinitial k lastinitial at stanford dot edu.
 
 ## Research
-Comparison of cohomological eigenvarieties, with Christian Johansson and Guillem Tarrach. [draft](https://mcvaughanald.github.io/files/Comparison.pdf)
+Comparison of cohomological eigenvarieties, with Christian Johansson & Guillem Tarrach. [draft](https://mcvaughanald.github.io/files/Comparison.pdf)
 
 Eigenvarieties over CM fields and trianguline representations. [arXiv.2054.18319](https://arxiv.org/abs/2504.18319)
 
