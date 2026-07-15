@@ -16,7 +16,7 @@ I can be reached at firstinitial k lastinitial at berkeley dot edu.
 ## Research
 Non-admissibility of some universal supersingular representations, with Zach Feng, Heejong Lee, Ray Li, & Nischay Reddy [arXiv.2605.17836](https://arxiv.org/abs/2605.17836)
 
-Infinitesimal characters for the completed cohomology of $\mathrm{GL}_n$ over CM fields, with Jelena Ivančić. [arXiv.2605.03519](https://arxiv.org/abs/2605.03519)
+Infinitesimal characters for the completed cohomology of GL_n over CM fields, with Jelena Ivančić. [arXiv.2605.03519](https://arxiv.org/abs/2605.03519)
 
 Comparison of cohomological eigenvarieties, with Christian Johansson & Guillem Tarrach. [draft, to be updated soon](https://mcvaughanald.github.io/files/Comparison.pdf)
 
@@ -34,7 +34,7 @@ Group, Lie and Number theory seminar, University of Michigan, March 2026
 
 Number theory seminar, Johns Hopkins University, February 2026
 
-$p$-adic aspects of the Langlands program, CIRM, Luminy, February 2026
+p-adic aspects of the Langlands program, CIRM, Luminy, February 2026
 
 Number theory seminar, UCLA, January 2026
 
